@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cal.mjc.km</string>
+				<string>cal.mwy.km</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>米进仓</string>
+				<string>米无忧</string>
 			</dict>
 		</dict>
 	</array>
